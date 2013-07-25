@@ -1,0 +1,25 @@
+#blue{
+	position: absolute;
+	top: 0px;
+	left: 10%;
+	width: 80%;
+	height: 100%;
+	background-color: rgba(0,196,255,1);
+}
+
+#gold{
+	position: absolute;
+	top: 0px;
+	left: 10%;
+	width: 80%;
+	height: 100%;
+}
+
+#content{
+	position: absolute;
+	top: 0px;
+	left: 12%;
+	width: 76%;
+	height: 100%;
+	background-color: rgba(255,255,255,1);
+}
